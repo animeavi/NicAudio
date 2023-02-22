@@ -1,4 +1,4 @@
-/NicAudio/.vs
-/NicAudio/NicAudio.vcxproj.user
-/NicAudio/Release
-/NicAudio/Debug
+.vs
+*.user
+Release/
+Debug/
