@@ -224,7 +224,7 @@
       <Culture>0x0809</Culture>
     </ResourceCompile>
     <Link>
-      <OutputFile>Debug\\x64\NicAudio.dll</OutputFile>
+      <OutputFile>Debug\x64\NicAudio.dll</OutputFile>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <ProgramDatabaseFile>Debug\x64\NicAudio.pdb</ProgramDatabaseFile>
